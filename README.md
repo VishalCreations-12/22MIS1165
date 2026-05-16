@@ -1,20 +1,25 @@
 # Logging Middleware
 
-TypeScript implementation for the campus hiring assessment logging middleware.
+Minimal TypeScript implementation for the campus hiring assessment logging middleware.
 
 ## Setup
+
 ```bash
 npm install
 ```
 
 ## Run
+
 ```bash
 npm run dev
 ```
 
 ## Screenshots
 
-![Screenshot 1](../screenshots/Screenshot%202026-05-16%20170903.png)
-![Screenshot 2](../screenshots/Screenshot%202026-05-16%20170914.png)
-![Screenshot 3](../screenshots/Screenshot%202026-05-16%20170922.png)
-![Screenshot 4](../screenshots/Screenshot%202026-05-16%20170929.png)
+![Screenshot 1](../screenshots/screenshot-1.png)
+
+![Screenshot 2](../screenshots/screenshot-2.png)
+
+![Screenshot 3](../screenshots/screenshot-3.png)
+
+![Screenshot 4](../screenshots/screenshot-4.png)
