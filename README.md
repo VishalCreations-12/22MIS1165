@@ -1,6 +1,6 @@
 # Logging Middleware
 
-Minimal TypeScript implementation for the campus hiring assessment logging middleware.
+TypeScript implementation for the campus hiring assessment logging middleware.
 
 ## Setup
 ```bash
